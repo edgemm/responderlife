@@ -41,16 +41,10 @@
 							<?php if( is_front_page() ) { ?>
 							<!-- {%FOOTER_LINK} -->
 							<?php } ?>
-                            
-                            
 						</div>
-                        <span style="float:right"><script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=responderlife.org&amp;size=S&amp;lang=en"></script></span>
-
 					</div>
 				</div>
 			</div>
-            
-            
 		</footer>
 	</div><!--.container-->
 </div><!--#main-->
